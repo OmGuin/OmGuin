@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**OmGuin/OmGuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Welcome to my corner of GitHub! ✨
 
-Here are some ideas to get you started:
+🔭 Currently: Building innovative solutions with Python, PyTorch, and deep learning.<br>
+🌱 Learning: Exploring cutting-edge research in ML and DL to push boundaries.<br>
+⚡ On a mission: To turn ideas into code and code into magic.<br>
+🌍 Building: Tools, models, and projects that aim to make the world a smarter, more connected place.<br>
+🛠️ Languages & Tools: Python, C++, Java, PyTorch, TensorFlow, OpenCV, Arduino, Raspberry Pi, and much more.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Let's connect: I’m always up for collaborating on awesome projects or just sharing knowledge.
+
+Let’s code the future together! 🚀
+
