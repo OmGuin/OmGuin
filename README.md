@@ -1,4 +1,4 @@
 deep learning. \
-pytorch, tensorflow and other stuff like opencv flask arduino rpi c++ java matlab js ts
+pytorch and other stuff like tensorflow opencv flask arduino rpi c++ java matlab js ts
 
-reach out at om.guin@gmail.com
+om.guin@gmail.com
